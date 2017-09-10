@@ -1,8 +1,8 @@
 ---
 layout: frontpage
-title: Karl Broman
-description: Karl Broman is Professor in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
-keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical genetics, recombination
+title: Miguel Bautista
+description: Miguel Bautista is a Biomedical Engineering graduate from the University of California, Irvine currently looking for data science opportunities. #Karl Broman is Professor in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
+keywords: Miguel Bautista, #QTL, R/qtl, quantitative trait loci, statistics, statistical genetics, recombination
 ---
 
 <div class="navbar">
