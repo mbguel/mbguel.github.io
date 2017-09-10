@@ -5,7 +5,7 @@ description: Miguel Bautista is a Biomedical Engineering graduate from the Unive
 ---
 
 Miguel Bautista is a Biomedical Engineering graduate from the University of California, Irvine currently looking for data science opportunities.
-Karl Broman is Professor in the
+<!-- Karl Broman is Professor in the
 [Department of Biostatistics &amp; Medical Informatics](http://www.biostat.wisc.edu)
 at the University of Wisconsin&ndash;Madison;
 research in statistical genetics; developer of
@@ -46,7 +46,7 @@ his [D3 examples](http://www.biostat.wisc.edu/~kbroman/D3).
 
 [google scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=42tCp5UAAAAJ&view_op=list_works)
 
-[impactstory](https://impactstory.org/u/0000-0002-4914-6671)
+[impactstory](https://impactstory.org/u/0000-0002-4914-6671) -->
 
 ---
 
