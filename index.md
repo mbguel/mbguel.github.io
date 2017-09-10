@@ -43,10 +43,10 @@ keywords: Miguel Bautista, #QTL, R/qtl, quantitative trait loci, statistics, sta
 </tr>
 </table>
 
-<div class="navbar">
+<!-- <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="morefigs.html">see more figures</a></li>
       </ul>
-  </div>
+  </div> -->
 </div>
