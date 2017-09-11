@@ -25,21 +25,20 @@ keywords: Miguel Bautista, #QTL, R/qtl, quantitative trait loci, statistics, sta
 
   </td>
   <td class="right">
-    <a href="pages/publpics/tian2016_fig4.html">
-        <img src="assets/publpics/tian2016_fig4.png" alt="Tian et
-        al. (2016) Fig 4" title="Tian et al. (2016) Fig 4"/>
+    <a href="pages/publpics/tSNE.html">
+        <img src="/assets/bigpublpics/Basketball Visualizations/tSNE Clustering/tSNE_0619_Plot1.png" width = "300" height = "150" alt="NBA Cluster (2016-17)" title="NBA Clustering (2016-17)"/>
     </a>
   </td>
 </tr>
 <tr>
   <td class="left">
-    <a href="pages/publpics/samplemixups_fig7.html">
-        <img src="assets/publpics/samplemixups_fig7.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
+    <a href="pages/publpics/leaguepct_madeshots.html">
+        <img src="/Users/Miguel/GitHub/gh_page/assets/bigpublpics/Basketball Visualizations/League Percentage of Made Shots Over Time/shotTypeByTime_2012.png" width = "300" height = "150" alt="League % of Made Shots Over Time (2011-12)" title="League % of Made Shots Over Time (2011-12)"/>
     </a>
   </td>
   <td class="right">
-    <a href="pages/publpics/isletc6_fig4.html">
-        <img src="assets/publpics/isletc6_fig4.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
+    <a href="pages/publpics/cycleplot.html">
+        <img src="assets/bigpublpics/Basketball Visualizations/NBA Cycle Plots - Rate of Made Shots/1_Point_Made_Frequency.png" width = "300" height = "150" alt="Cycle Plot: Rate of Made Shots (2008-2012" title="Cycle Plot: Rate of Made Shots (2008-2012)"/>
     </a>
   </td>
 </tr>
