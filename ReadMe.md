@@ -1,6 +1,6 @@
-## Karl Broman&rsquo;s website
+## Miguel Bautista&rsquo;s website
 
-See [kbroman.org](http://kbroman.org).
+<!-- See [kbroman.org](http://kbroman.org). -->
 
 ---
 

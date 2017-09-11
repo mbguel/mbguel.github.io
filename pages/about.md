@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: About
 description: Miguel Bautista is a Biomedical Engineering graduate from the University of California, Irvine currently looking for data science opportunities.
 ---
 
@@ -10,7 +10,7 @@ Miguel Bautista is a Biomedical Engineering graduate from the University of Cali
 ---
 
 <div class="container">
-<h4><a name="contact"></a>contact</h4>
+<h4><a name="contact"></a>Contact</h4>
 
     <div class="row-fluid">
         <div class="span5">
