@@ -23,10 +23,9 @@ Miguel Bautista is a Biomedical Engineering graduate from the University of Cali
             USA<br/><br/>
 
             <div id="hide_email">
-            Email: <code>mi</code><b>I</b><code>gu</code><b>don't</b><code>el</code><b>want</b><code>uc</code><b>spam!
-            </b><code>b1</code><b>So</b><code>@</code><b>please</b><code>uc</code><b>leave
+            Email: <code>mi</code><b>I</b><code>gu</code><b>don't</b><code>el</code><b>want</b><code>b</code><b>spam!
+            </b><code>1</code><b>So</b><code>@</code><b>please</b><code>uc</code><b>leave
             </b><code>i</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
-            Phone: 280-330-8004
             </div>
         </div>
 
