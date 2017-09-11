@@ -15,12 +15,12 @@ Miguel Bautista is a Biomedical Engineering graduate from the University of Cali
     <div class="row-fluid">
         <div class="span5">
             Miguel Bautista<br/>
-            <a href="http://www.biostat.wisc.edu">Department of Biostatistics &amp; Medical Informatics</a><br/>
+            <!-- <a href="http://www.biostat.wisc.edu">Department of Biostatistics &amp; Medical Informatics</a><br/>
             <a href="http://www.wisc.edu">University of Wisconsin&ndash;Madison</a><br/>
             <a href="http://map.wisc.edu/s/2tie3nen">2126 Genetics/Biotechnology Center</a><br/>
             425 Henry Mall<br/>
             Madison, Wisconsin 53706<br/>
-            USA<br/><br/>
+            USA<br/><br/> -->
 
             <div id="hide_email">
             Email: <code>mi</code><b>I</b><code>gu</code><b>don't</b><code>el</code><b>want</b><code>b</code><b>spam!
