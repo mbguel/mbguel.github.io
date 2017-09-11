@@ -29,10 +29,10 @@ Miguel Bautista is a Biomedical Engineering graduate from the University of Cali
             </div>
         </div>
 
-        <div class="span2">
+        <!-- <div class="span2">
         <a href="../assets/pics/karl_2014-03-30.jpg">
             <img src="../assets/pics/karl_2014-03-30_small.jpg"
                   title="Karl Broman" alt="Karl Broman"/></a>
-        </div>
+        </div> -->
     </div>
 </div>
