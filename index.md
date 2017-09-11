@@ -18,7 +18,7 @@ keywords: Miguel Bautista, #QTL, R/qtl, quantitative trait loci, statistics, sta
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="pages/publpics/iplotCorr.html">
+    <a href="pages/publpics/homeaway.html">
         <img src="/assets/bigpublpics/Basketball Visualizations/Home and Away - Made Shot Percentage/Home_Away_Made_Shots_Pct_2012.png" width = "300" height = "150" alt = "Home/Away Made Shot % (2012)" title = "Home/Away Made Shot % (2012)"/>
     </a>
 
