@@ -8,7 +8,7 @@ keywords: Miguel Bautista, #QTL, R/qtl, quantitative trait loci, statistics, sta
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">Resume</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/bautista_resume.pdf">Resume</a></li>
           <li><a href="https://github.com/mbguel">GitHub</a></li>
           <li><a href="http://linkedin.com/in/miguelb1">LinkedIn</a></li>
       </ul>
