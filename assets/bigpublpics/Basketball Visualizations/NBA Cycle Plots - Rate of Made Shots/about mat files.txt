@@ -1,0 +1,13 @@
+madeShotRate:
+Percentage of shots made that are fts, 2-pointers, 3-pointers, per minute.
+Data is structured as a 4 by 12.
+Minute order:
+[1 2 3 4 ... 12]
+[36 37  ...  48]
+ft_rate
+two_rate
+three_rate
+
+Total_FT_Rate
+- Shows percentage of shots made that are free throws from seasons 2008-2012.
+- Also shows an average rate from 2008-2012 titled ft_rate.

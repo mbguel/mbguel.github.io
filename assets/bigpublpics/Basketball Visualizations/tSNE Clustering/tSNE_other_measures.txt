@@ -1,0 +1,9 @@
+% Other experimental measures I used:
+% The measures used are on a separate Google sheet.
+% measures_off = d.zPerformance(:,[1,5,8,10:20,22]);
+% measures_adv = d.zPerformance(:,[20:23]);
+% Ratings: meaning no Off. Rating, Def. Rating, OReb/DReb, OReb/DReb %,
+% no personal fouls.
+% measures_lot = d.zPerformance(:,[1,4:8,10:19,22:25,28:32]);
+% measures_lot2 = d.zPerformance(:,[1,4:8,12,15,18,19,22:25,29]);
+% measures_less = d.zPerformance(:,[1 12 15 18 19 22 23 28 29 30 31]);
