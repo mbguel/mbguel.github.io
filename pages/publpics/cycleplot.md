@@ -3,7 +3,7 @@
 Cycle plots are useful in showing trends in time series data. It can show whether or not a certain day of the week has more sales, or less sales, and plots each day of that week with all its other, then finds an average.
 
 Example of a cycle plot showing item sales over an 8 week period:
-![%1 pointers made 2008-2012](./NBA%20Cycle%20Plots%20-%20Rate%20of%20Made%20Shots/item_cycle.png)
+![%1 pointers made 2008-2012](/assets/bigpublpics/Basketball Visualizations/NBA Cycle Plots - Rate of Made Shots/item_cycle.png)
 
 In this figure, Wednesdays tend to show have a higher number of items sold.
 
