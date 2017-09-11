@@ -18,7 +18,7 @@ This plot contains the following player types:
   * For players who did not play significant minutes for their teams, i.e. called up from G-League, played one game and got injured, fringe rotation players, and or frequent DNPs.
    * Examples include Edy Tavares, Anthony Bennett, Jordan Farmar, Paul Pierce.
 
-![tSNE figure 1 ](./tSNE%20Clustering/tSNE_0619_Plot1.png)
+![tSNE figure 1 ](/assets/bigpublpics/Basketball Visualizations/tSNE Clustering/tSNE_0619_Plot1.png)
 The plot clusters star players like John Wall, LeBron James, Stephen Curry, James Harden, and Russell Westbrook close together.
 
 The plot also groups other stars close together such as Jimmy Butler, Paul George, and Kawhi Leonard.
