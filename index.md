@@ -33,7 +33,7 @@ keywords: Miguel Bautista, #QTL, R/qtl, quantitative trait loci, statistics, sta
 <tr>
   <td class="left">
     <a href="pages/publpics/leaguepct_madeshots.html">
-        <img src="/Users/Miguel/GitHub/gh_page/assets/bigpublpics/Basketball Visualizations/League Percentage of Made Shots Over Time/shotTypeByTime_2012.png" width = "300" height = "150" alt="League % of Made Shots Over Time (2011-12)" title="League % of Made Shots Over Time (2011-12)"/>
+        <img src="/assets/bigpublpics/Basketball Visualizations/League Percentage of Made Shots Over Time/shotTypeByTime_2012.png" width = "300" height = "150" alt="League % of Made Shots Over Time (2011-12)" title="League % of Made Shots Over Time (2011-12)"/>
     </a>
   </td>
   <td class="right">
