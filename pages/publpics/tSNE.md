@@ -19,7 +19,7 @@ This plot contains the following player types:
    * Examples include Edy Tavares, Anthony Bennett, Jordan Farmar, Paul Pierce.  
 <!-- ![tSNE figure 1 ](/assets/bigpublpics/Basketball Visualizations/tSNE Clustering/tSNE_0619_Plot1.png) -->
 
-<img src="/assets/bigpublpics/Basketball Visualizations/tSNE Clustering/tSNE_0619_Plot1.png" alt="NBA Cluster (2016-17)" title="NBA Clustering (2016-17)"/>
+<img src="/assets/bigpublpics/Basketball Visualizations/tSNE Clustering/tSNE_0619_Plot1.png" alt="NBA Cluster (2016-17)" width = "940" height = "660"  title="NBA Clustering (2016-17)"/>
 
 The plot clusters star players like John Wall, LeBron James, Stephen Curry, James Harden, and Russell Westbrook close together.
 
