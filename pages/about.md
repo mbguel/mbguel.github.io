@@ -1,10 +1,19 @@
 ---
 layout: page
 title: About
-description: Miguel Bautista is a Biomedical Engineering graduate from the University of California, Irvine currently looking for data science opportunities.
+description: Miguel Bautista
 ---
 
 Miguel Bautista is a Biomedical Engineering graduate from the University of California, Irvine currently looking for data science opportunities.
+
+Miguel graduated from the University of California, Irvine in 2017 in Biomedical Engineering (B.S.), and minored in Statistics.
+
+During his time at UC Irvine, he worked as a researcher for Professor <a href="https://faculty.sites.uci.edu/mdlee/">Michael Lee</a>, working on NBA data analysis and visualization from 2016 to 2017.
+
+
+An avid sports fan, Miguel has previously worked as a writer for UC Irvine's Campus Recreation sports program, and UC Irvine's Sports Analysis Collective organization.
+
+---
 
 
 ---
