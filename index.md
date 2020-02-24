@@ -47,10 +47,17 @@ keywords: Miguel Bautista, #QTL, R/qtl, quantitative trait loci, statistics, sta
     </a>
   </td> -->
   <td class="right">
-    <a href="pages/publpics/cycleplot.html">
-        <img src="assets/bigpublpics/Basketball Visualizations/NBA Cycle Plots - Rate of Made Shots/1_Point_Made_Frequency.png" width = "300" height = "150" alt="Cycle Plot: Rate of Made Shots (2008-2012" title="Cycle Plot: Rate of Made Shots (2008-2012)"/>
+    <a href="pages/publpics/house_prices.html">
+        <img src="assets/bigpublpics/loan.png" width = "300" height = "150" alt="House Prices" title="House Prices"/>
     </a>
   </td>
+
+  <!-- This is a cycle plot showing rate of made shots. Points to .md file even if URL says .html
+  <td class="right">
+    <a href="pages/publpics/cycleplot.html">
+        <img src="assets/bigpublpics/Basketball Visualizations/NBA Cycle Plots - Rate of Made Shots/1_Point_Made_Frequency.png" width = "300" height = "150" alt="Cycle Plot: Rate of Made Shots (2008-2012)" title="Cycle Plot: Rate of Made Shots (2008-2012)"/>
+    </a>
+  </td> -->
 </tr>
 </table>
 
