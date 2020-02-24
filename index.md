@@ -18,7 +18,7 @@ keywords: Miguel Bautista, #QTL, R/qtl, quantitative trait loci, statistics, sta
 <table class="wide">
 <tr>
   <td class="left">
-  <a href="pages/publpics/cosmetics.html">
+  <a href="pages/publpics/cosmetics_project.html">
       <img src="/assets/bigpublpics/cosmetics_plot.png" width = "300" height = "150" alt = "Classifying similarity of cosmetics" title = "Classifying cosmetics based off ingredients"/>
   </a>
 
