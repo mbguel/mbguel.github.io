@@ -48,7 +48,7 @@ keywords: Miguel Bautista, #QTL, R/qtl, quantitative trait loci, statistics, sta
   </td> -->
   <td class="right">
     <a href="pages/publpics/house_prices.html">
-        <img src="assets/bigpublpics/loan.png" width = "300" height = "150" alt="House Prices" title="House Prices"/>
+        <img src="assets/bigpublpics/house_prices.png" width = "300" height = "150" alt="House Prices" title="House Prices"/>
     </a>
   </td>
 
