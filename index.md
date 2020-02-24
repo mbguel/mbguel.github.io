@@ -22,7 +22,7 @@ keywords: Miguel Bautista, #QTL, R/qtl, quantitative trait loci, statistics, sta
       <img src="/assets/bigpublpics/cosmetics_plot.png" width = "300" height = "150" alt = "Classifying similarity of cosmetics" title = "Classifying cosmetics based off ingredients"/>
   </a>
 
-    <!-- This is the home & away made shot percentage graph.
+    <!-- This is the home & away made shot percentage graph. Points to .md file even if URL says .html
     <a href="pages/publpics/homeaway.html">
         <img src="/assets/bigpublpics/Basketball Visualizations/Home and Away - Made Shot Percentage/Home_Away_Made_Shots_Pct_2012.png" width = "300" height = "150" alt = "Home/Away Made Shot % (2012)" title = "Home/Away Made Shot % (2012)"/>
     </a> -->
@@ -30,16 +30,22 @@ keywords: Miguel Bautista, #QTL, R/qtl, quantitative trait loci, statistics, sta
   </td>
   <td class="right">
     <a href="pages/publpics/tSNE.html">
-        <img src="/assets/bigpublpics/Basketball Visualizations/tSNE Clustering/tSNE_0619_Plot1.png" width = "300" height = "150" alt="NBA Cluster (2016-17)" title="NBA Clustering (2016-17)"/>
+        <img src="/assets/bigpublpics/Basketball Visualizations/tSNE Clustering/tSNE_0619_Plot1.png" width = "300" height = "150" alt="NBA Cluster (2016-17)" title="NBA Clustering (2016-17 Season)"/>
     </a>
   </td>
 </tr>
 <tr>
+<td class="left">
+  <a href="pages/publpics/loan_status.html">
+      <img src="/assets/bigpublpics/loan.png" width = "300" height = "150" alt="Predicting Loan Status" title="Predicting Loan Status"/>
+  </a>
+</td>
+  <!-- This is the League % of Made Shots Over Time graph. Points to .md file even if URL says .html
   <td class="left">
     <a href="pages/publpics/leaguepct_madeshots.html">
         <img src="/assets/bigpublpics/Basketball Visualizations/League Percentage of Made Shots Over Time/shotTypeByTime_2012.png" width = "300" height = "150" alt="League % of Made Shots Over Time (2011-12)" title="League % of Made Shots Over Time (2011-12)"/>
     </a>
-  </td>
+  </td> -->
   <td class="right">
     <a href="pages/publpics/cycleplot.html">
         <img src="assets/bigpublpics/Basketball Visualizations/NBA Cycle Plots - Rate of Made Shots/1_Point_Made_Frequency.png" width = "300" height = "150" alt="Cycle Plot: Rate of Made Shots (2008-2012" title="Cycle Plot: Rate of Made Shots (2008-2012)"/>
