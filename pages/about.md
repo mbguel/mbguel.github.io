@@ -32,9 +32,9 @@ An avid sports fan, Miguel has previously worked as a writer for UC Irvine's Cam
             USA<br/><br/> -->
 
             <div id="hide_email">
-            Email: <code>mi</code><b>I</b><code>gu</code><b>don't</b><code>el</code><b>want</b><code>b</code><b>spam!
-            </b><code>1</code><b>So</b><code>@</code><b>please</b><code>uc</code><b>leave
-            </b><code>i</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
+            Email: <code>ba</code><b>I</b><code>ut</code><b>don't</b><code>is</code><b>want</b><code>ta.</code><b>spam!
+            </b><code>m94</code><b>So</b><code>@</code><b>please</b><code>gm</code><b>leave
+            </b><code>ail</code><b>me</b><code>.</code><b>alone</b><code>c</code><b>!</b><code>om</code><br/>
             </div>
         </div>
 
