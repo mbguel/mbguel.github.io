@@ -4,12 +4,13 @@ title: About
 description: Miguel Bautista
 ---
 
-Miguel Bautista is a Biomedical Engineering graduate from the University of California, Irvine currently looking for data science opportunities.
+Miguel Bautista is a former product specialist skilled in Python in order to create exploratory data analyses and predictive models. Additional skills include Excel, SQL, MATLAB, Final Cut Pro X, Solidworks, R.
+
+Previously, Miguel worked at Crystal Art Gallery, where he wrote Python scripts and created Excel macros to automate retrieval of eCommerce product records. During his time there, he also wrote scripts to recover critical product files after ransomware attack (Ryuk) using a combination of Python, Excel, command-line interface (CLI) and Amazon Web Services CLI for the company's eCommerce department.
 
 Miguel graduated from the University of California, Irvine in 2017 in Biomedical Engineering (B.S.), and minored in Statistics.
 
 During his time at UC Irvine, he worked as a researcher for Professor <a href="https://faculty.sites.uci.edu/mdlee/">Michael Lee</a>, working on NBA data analysis and visualization from 2016 to 2017.
-
 
 An avid sports fan, Miguel has previously worked as a writer for UC Irvine's Campus Recreation sports program, and UC Irvine's Sports Analysis Collective organization.
 
