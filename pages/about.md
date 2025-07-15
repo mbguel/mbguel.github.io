@@ -4,15 +4,11 @@ title: About
 description: Miguel Bautista
 ---
 
-Miguel Bautista is a former product specialist skilled in Python in order to create exploratory data analyses and predictive models. Additional skills include Excel, SQL, MATLAB, Final Cut Pro X, Solidworks, R.
+Experienced operations and contracts professional with a strong background in subcontract administration, compliance, and process improvement across public health, construction, and manufacturing industries. At Heluna Health, managed over $27.2 million in subcontracts funded by state and county health departments, while drafting internal compliance tools and coordinating federally funded invoicing workflows. Previously at ACCO Engineered Systems, executed over $600 million in construction subcontracts, led multi-company Oracle/Smartsheet integration projects, and facilitated vendor onboarding and migration during company acquisitions.
 
-Previously, Miguel worked at Crystal Art Gallery, where he wrote Python scripts and created Excel macros to automate retrieval of eCommerce product records. During his time there, he also wrote scripts to recover critical product files after ransomware attack (Ryuk) using a combination of Python, Excel, command-line interface (CLI) and Amazon Web Services CLI for the company's eCommerce department.
+Earlier roles include creating Python-based automation tools and data recovery systems at Crystal Art Gallery, building machine learning training datasets at Gradient Intelligence, and conducting data visualization research using MATLAB and t-SNE clustering at UC Irvine. Holds a B.S. in Biomedical Engineering with a Statistics minor from UC Irvine and a Data Science certificate from General Assembly.
 
-Miguel graduated from the University of California, Irvine in 2017 in Biomedical Engineering (B.S.), and minored in Statistics.
-
-During his time at UC Irvine, he worked as a researcher for Professor <a href="https://faculty.sites.uci.edu/mdlee/">Michael Lee</a>, working on NBA data analysis and visualization from 2016 to 2017.
-
-An avid sports fan, Miguel has previously worked as a writer for UC Irvine's Campus Recreation sports program, and UC Irvine's Sports Analysis Collective organization.
+Skilled in contracts administration, automation, Microsoft Excel (including VBA), Python, Smartsheet, Oracle JD Edwards, Salesforce, and federal compliance tools like SAM.gov.
 
 ---
 
